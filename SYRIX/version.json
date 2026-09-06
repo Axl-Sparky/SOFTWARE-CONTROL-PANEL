@@ -1,7 +1,11 @@
 {
   "customer": "SYRIX",
-  "latestVersion": "0.0.0",
+  "latestVersion": "1.0.0",
   "required": true,
-  "releaseNotes": [],
-  "downloadUrl": ""
+  "title": "Initial Release",
+  "releaseNotes": [
+    "Initial release of SYRIX Control Center"
+  ],
+  "downloadUrl": "https://github.com/Axl-Sparky/SOFTWARE-CONTROL-PANEL/releases/download/SYRIX-1.0.0/SYRIX-1.0.0.exe",
+  "sha256": ""
 }

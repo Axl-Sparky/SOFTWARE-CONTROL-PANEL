@@ -1,11 +1,12 @@
 {
   "customer": "SYRIX",
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.1.0",
   "required": true,
-  "title": "Initial Release",
+  "title": "SYRIX Control Center v1.1.0",
   "releaseNotes": [
-    "Initial release of SYRIX Control Center"
+    "Testing automatic update system",
+    "Testing release distribution"
   ],
-  "downloadUrl": "",
-  "sha256": ""
+  "downloadUrl": "https://github.com/Axl-Sparky/SOFTWARE-CONTROL-PANEL/releases/download/SYRIX-1.1.0/SYRIX-1.1.0-test.txt",
+  "sha256": "c5e21fb74850fb1ef7dc29d5218f0cd43056658f78ce047ce5fc86b1b70b28e6"
 }
